@@ -1,0 +1,14 @@
+.main
+{
+    height: 40%;
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+    font-size: 80px;
+}
+.btnh{
+    margin-left: 80px;
+    height: 60px;
+    width: 90px;
+    border-radius: 8px;
+}
